@@ -3,7 +3,7 @@
 
 
 ## Contacts 
-[email](mailto:orlov.ka@outlook.com) | [LinkedIn](https://www.linkedin.com/in/orlovka/) | [Discord](discordapp.com/users/1017486672671281292)
+[email](mailto:orlov.ka@outlook.com) | [LinkedIn](https://www.linkedin.com/in/orlovka/) | [Discord](https://discordapp.com/users/1017486672671281292)
 
 
 ## About myself    
