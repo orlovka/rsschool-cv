@@ -1,5 +1,5 @@
-# **Konstantin Orlov**
 ![It's me](/assets/images/me.jpg)
+# **Konstantin Orlov**
 
 
 ## Contacts 
@@ -26,8 +26,8 @@ function multiply(a, b){
 
 
 ## Experience
-* 07/22 Network Infrastructure Specialist for a large Russian company
-* 09/22 - 07/22 Senior User Support Engineer for a large Russian company
+* 07/22 - present time Network Infrastructure Specialist for a large Russian company
+* 09/20 - 07/22 Senior User Support Engineer for a large Russian company
 
 
 ## Education
