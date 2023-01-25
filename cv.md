@@ -2,11 +2,11 @@
 # **Konstantin Orlov**
 
 
-## Contacts 
+## Contacts
 [email](mailto:orlov.ka@outlook.com) | [LinkedIn](https://www.linkedin.com/in/orlovka/) | [Discord](https://discordapp.com/users/1017486672671281292)
 
 
-## About myself    
+## About myself
 Hi! At the moment I am working as a Network Infrastructure Specialist for a large Russian company. Prior to that, I worked in the same company as a Senior User Support Engineer. Highly developed soft skills help me to build the necessary contacts with any people. I like to constantly learn something new and deepen my knowledge in areas of interest. Now the main interests for me are: network technologies, front-end development and in-depth study of English.
 
 
@@ -31,8 +31,7 @@ function multiply(a, b){
 
 
 ## Education
-State University of Nizhni Novgorod named after N.I. Lobachevsky (UNN)
-    Bachelor's degree of Applied Informatics
+State University of Nizhni Novgorod named after N.I. Lobachevsky (UNN) Bachelor's degree of Applied Informatics
 
 
 ## Courses
@@ -43,5 +42,3 @@ State University of Nizhni Novgorod named after N.I. Lobachevsky (UNN)
 ## Languages
 * English B1
 * Russian Native
-
-
